@@ -1,4 +1,4 @@
-# 🔍 CMS Vulnerability Scanner
+#  CMS Vulnerability Scanner
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
